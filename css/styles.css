@@ -1,0 +1,17 @@
+.MP {
+color: #A5DEFF;
+}
+.btn {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    background: #FF6B02;
+    cursor: pointer;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    
+    ;
+
+}
